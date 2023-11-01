@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Henry Chen/Documents/Unreal Projects/ProceduralSand/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Henry Chen/Documents/Unreal Projects/ProceduralSand/Content/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_8K.uasset",
+				"C:/Users/Henry Chen/Documents/Unreal Projects/ProceduralSand/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Henry Chen/Documents/Unreal Projects/ProceduralSand/Content/DesertLevel.umap",
+				"C:/Users/Henry Chen/Documents/Unreal Projects/ProceduralSand/Content/Materials/M_Dustcloud.uasset",
+				"C:/Users/Henry Chen/Documents/Unreal Projects/ProceduralSand/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Henry Chen/Documents/Unreal Projects/ProceduralSand/Content/Materials/M_Dustcloud_Inst.uasset"
+			]
+		}
+	]
+}
